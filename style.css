@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,600;1,300&family=Sacramento&display=swap');
+body {
+    background-color: #a0fafa;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montserrat', sans-serif;
+    }
+    .header-title{
+        background-image:url(./images/hi-tech-computer-keyboard-keys-web-header.jpg);
+        min-height: 180px;
+        background-size: cover;
+        background-position: center bottom;
+        padding: 50px;
+        margin: 0px;
+        color: #faa200;
+        font-size: 70px;
+        text-align: center;
+        font-family: 'Sacramento', cursive;
+    }
+    .nav-menu{
+        background-color: #4361EE;
+        padding: 5px;
+        text-align: center;
+    }
+    .navlink{
+        color: #fff;
+        font-size: 25px;
+        margin: 10px;
+        text-decoration: none;
+        border-style: solid;
+        border-radius: 10px;
+        padding: 4px;
+        display: inline-block;
+        width: 150px;
+    }
+    table{
+    border-style: solid;
+    border-width: 2px;
+}
+th,td{
+    border-style: solid;
+    border-width: 2px;
+}
+    h1 {
+    color: #ff0000;
+    }
+    h2 {
+    color: #0000ff;
+    }
+    p, ol {
+    font-size: 20px;
+    }
+    ul {
+    color: #008000;
+    font-size: 20px;
+    }
+    footer{
+        background-color: #313131;
+        padding: 32px;
+        font-size: 20px;
+        text-align: center;
+        position: fixed;
+        bottom: 0px;
+        width: 100%;
+    }
+    .footer-text{
+        margin: 0px;
+        padding: 0px;
+        color: #fff;
+    }
+    section{
+        max-width: 800px;
+        margin: auto;
+        padding: 8px;
+    }
